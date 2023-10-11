@@ -1,6 +1,6 @@
 # Black Sheep Game 🐑
 
-Welcome to the Black Sheep Game! This simple web-based game challenges you to identify the "black animal" from a shuffled list of options, including sheep, goat, tiger, pig, dog, and you. Test your intuition and see how many correct choices you can make in a row.
+Welcome to the Black Sheep Game! This simple web-based game challenges you to identify the "black sheep" from a shuffled list of options, including sheep, goat, tiger, pig, dog, and cat. Test your intuition and see how many correct choices you can make in a row.
 
 ## How to Play
 
