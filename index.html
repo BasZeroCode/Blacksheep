@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Black Sheep Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Welcome to the Black Sheep Game!</h1>
+    <button onclick="startGame()">Start Game</button>
+    <div id="game-container" style="display: none;">
+        <h2>Choose the Black Sheep:</h2>
+        <select id="choice"></select>
+        <br>
+        <button onclick="submitChoice()">Submit</button>
+        <p id="result"></p>
+        <a href="#" onclick="playAgain()">Play Again</a>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
